@@ -215,4 +215,4 @@ Trend Micro Internet Security is offered as a **complete free version** with all
 Protect your digital life today! Download **Trend Micro Internet Security** for a safe and secure online experience.
 
 ---
-**Last updated:** 2026-11-08 20:52:45 UTC
+**Last updated:** 2026-11-09 00:19:05 UTC
